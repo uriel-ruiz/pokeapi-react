@@ -25,7 +25,7 @@ Charizard               |  Blastoise  |  Venusaur
 
 ## Demo
 
-You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
+You can see it deployed [here](https://elink21.github.io/pokeapi-react/) 👈
 
 ## Do you want to use or run this project locally?
 
