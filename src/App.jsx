@@ -88,7 +88,7 @@ export default class App extends React.Component{
     return (
       <>
         <Container>
-          <Navbar title="PokeApi"></Navbar>
+          <Navbar title="Elias Poke Api"></Navbar>
           <Search onHandleSearch={this.handleSearch} />
           {
             this.state.notFound ? (
